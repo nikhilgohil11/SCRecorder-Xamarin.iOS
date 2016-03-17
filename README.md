@@ -12,6 +12,6 @@ To generate binding dll open SCGRecorderBinding.sln and build. You will get dll 
 Now you can add dll as a reference in any xamarin.iOS project and use it.
 
 
-## Lincense ##
+## License ##
 
 [MIT License] (http://nikhilgohil11.mit-license.org/ "MIT License")
